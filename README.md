@@ -20,6 +20,12 @@ Planned material-review tools for reports, image diagnostics, node checks, and s
 
 This repository is the public documentation, roadmap, support, and feedback location for DRH - Material Inventory. It does not contain an installable add-on package.
 
+## Key features
+
+| Capability |
+|---|
+| Planned material-review tools for reports, image diagnostics, node checks, and scene cleanup |
+
 ## Product status
 
 | Item | Details |
@@ -34,23 +40,9 @@ This repository is the public documentation, roadmap, support, and feedback loca
 
 Product direction may change before a public release.
 
-## Capabilities
-
-| Capability |
-|---|
-| Planned material-review tools for reports, image diagnostics, node checks, and scene cleanup |
-
 ## Media
 
-No public product screenshots are available yet. The roadmap preview is shown below.
-
-<div align="center">
-  <img width="620" alt="DRH - Material Inventory roadmap preview" src="docs/media/ComingSoon.png" />
-</div>
-
-## Product reference
-
-This repository is the public roadmap and support surface for the planned product. Scope may change before a release is approved.
+Product screenshots and workflow previews are coming soon.
 
 ## Documentation and support
 
@@ -75,7 +67,8 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Destination | Link |
 |---|---|
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
